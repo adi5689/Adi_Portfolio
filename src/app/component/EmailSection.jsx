@@ -23,8 +23,8 @@ const EmailSection = () => {
           <br />
           <span>Reach me at{'->'}</span>
         </p>
-        <p><span>Phone: </span> 7008391742</p>
-        <p><span>Email: </span> adityakumarsahu.89@gmail.com</p>
+        <p classname="text-white"><span>Phone: </span> 7008391742</p>
+        <p classname="text-white"><span>Email: </span> adityakumarsahu.89@gmail.com</p>
       </div>
       <div className="z-10">
         <ContactForm />        
