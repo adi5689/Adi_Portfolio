@@ -49,14 +49,14 @@ const HeroSection = () => {
           <div className="flex md:pt-[140px] flex-col lg:flex-row justify-center lg:justify-start">
             <button className="px-1 py-1 rounded-md mr-0 lg:mr-4  bg-gradient-to-br from-[#ff610c] to-[#8600ab] text-white hover:bg-white">
               <a href="#hire">
-                <span className="block bg-[#121212] hover:bg-slate-900 h-full w-full rounded-md px-5 py-2">
+                <span className="block bg-[#121212] text-white hover:bg-slate-900 h-full w-full rounded-md px-5 py-2">
                   Hire Me
                 </span>
               </a>
             </button>
             <button className="px-1 py-1 rounded-md bg-gradient-to-br from-[#ff0c0c] to-[#c800ff] hover:bg-green-500 hover:text-white mt-3 lg:mt-0">
               <a href="https://drive.google.com/file/d/1W5m0U0ndqDlnJ-AXRX1J6Qr5R2VzXid0/view?usp=sharing">
-                <span className="block bg-[#121212] hover:bg-slate-900 rounded-md px-5 py-2">
+                <span className="block bg-[#121212] text-white hover:bg-slate-900 rounded-md px-5 py-2">
                   Download Resume
                 </span>
               </a>
