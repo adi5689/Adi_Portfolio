@@ -81,7 +81,7 @@ const TAB_DATA = [
           <br />
           <span className="text-[#ADB7BE]">{"=>"}Apr/11 - Mar/18</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"}PCMB</span>
+          <span className="text-[#ADB7BE]">{"=>"}Science</span>
         </li>
       </ul>
     ),
@@ -94,7 +94,7 @@ const TAB_DATA = [
         <li>
           <span>BAKCHO₹: Frontend Intern</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"}FEB/23 - June/23</span>
+          <span className="text-[#ADB7BE]">{"=>"}FEB/23 - Aug/23</span>
           <br />
           <span className="text-[#ADB7BE]">
             {"=>"}Tech Stack: Figma, Canva, ReactJs, Javascript, Tailwind
