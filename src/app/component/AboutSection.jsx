@@ -92,9 +92,9 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>
-          <span>BAKCHO₹: Frontend Intern</span>
+          <span>BAKCHO₹: Frontend Developer (Trainee)</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"}FEB/23 - Aug/23</span>
+          <span className="text-[#ADB7BE]">{"=>"}FEB/23 - SEPT/23</span>
           <br />
           <span className="text-[#ADB7BE]">
             {"=>"}Tech Stack: Figma, Canva, ReactJs, Javascript, Tailwind
