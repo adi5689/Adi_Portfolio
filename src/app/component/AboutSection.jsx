@@ -53,7 +53,7 @@ const TAB_DATA = [
     content: (
       <div className="grid grid-cols-3 gap-3">
         {skillLogo.map((skill, index) => (
-          <div key={index} className="flex flex-col justify-center px-2 py-2 lg:py-0">
+          <div key={index} className="flex flex-col justify-center items-center px-2 py-2 lg:py-0">
               <div className="rounded-full h-[70px] w-[70px] flex flex-col items-center justify-center bg-[#0e90d18b]">
                 <Image
                   src={skill.img}
