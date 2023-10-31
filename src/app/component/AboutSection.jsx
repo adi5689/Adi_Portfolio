@@ -21,6 +21,10 @@ const skillLogo = [
     title:"ReactJs",
   },
   {
+    img: "/images/skills/redux.png",
+    title: "Redux",
+  },
+  {
     img: "/images/skills/tailwind.png",
     title:"Tailwind CSS",
   },
@@ -50,15 +54,17 @@ const TAB_DATA = [
       <div className="grid grid-cols-3 gap-3">
         {skillLogo.map((skill, index) => (
           <div key={index} className="flex flex-col justify-center px-2 py-2 lg:py-0">
-            <Image
-              src={skill.img}
-              alt={`Skill ${index + 1}`}
-              width={40}
-              height={40}
-            />
-            {/* <div>
-              <span className="text-center">{skill.title}</span>
-            </div> */}
+              <div className="rounded-full h-[70px] w-[70px] flex flex-col items-center justify-center bg-[#0e90d18b]">
+                <Image
+                  src={skill.img}
+                  alt={`Skill ${index + 1}`}
+                  width={30}
+                  height={30}
+                />
+              </div>
+              <div className="text-left">
+                <span>{skill.title}</span>
+              </div>
           </div>
         ))}
       </div>
@@ -72,16 +78,16 @@ const TAB_DATA = [
         <li>
           <span>National Institute of Science and Technology, Berhampur</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"}Aug/19 - MAR/23</span>
+          <span className="text-[#ADB7BE]">{"=>"} Aug/19 - MAR/23</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"}EEE</span>
+          <span className="text-[#ADB7BE]">{"=>"} EEE</span>
         </li>
         <li>
           <span>Sainik School Bhubaneswar</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"}Apr/11 - Mar/18</span>
+          <span className="text-[#ADB7BE]">{"=>"} Apr/11 - Mar/18</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"}Science</span>
+          <span className="text-[#ADB7BE]">{"=>"} Science</span>
         </li>
       </ul>
     ),
@@ -94,19 +100,19 @@ const TAB_DATA = [
         <li>
           <span>BAKCHO₹: Frontend Developer (Trainee)</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"}FEB/23 - SEPT/23</span>
+          <span className="text-[#ADB7BE]">{"=>"} FEB/23 - SEPT/23</span>
           <br />
           <span className="text-[#ADB7BE]">
-            {"=>"}Tech Stack: Figma, Canva, ReactJs, Javascript, Tailwind
+            {"=>"} Tech Stack: Figma, Canva, ReactJs, Javascript, Tailwind
           </span>
         </li>
         <li>
           <span>11x Infisol: Frontend Developer Intern</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"}DEC/22 - FEB/23</span>
+          <span className="text-[#ADB7BE]">{"=>"} DEC/22 - FEB/23</span>
           <br />
           <span className="text-[#ADB7BE]">
-            {"=>"}Tech Stack: ReactJs, Javascript, Bootstrap
+            {"=>"} Tech Stack: ReactJs, Javascript, Bootstrap
           </span>
         </li>
       </ul>
