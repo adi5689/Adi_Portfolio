@@ -13,6 +13,15 @@ const projectData = [
     },
     {
         id:2,
+        title: "CRED UI CLONE",
+        description: "It is UI clone of the fintech startup CRED, made using React & Hooks.",
+        image: "/images/projects/Cart.png",
+        tag: ["All", "Web"],
+        gitUrl:"https://github.com/adi5689/CART-Feature",
+        previewUrl:"https://cred-ui-clone-three.vercel.app/",
+    },
+    {
+        id:3,
         title: "A-Design",
         description: "It is a Tshirt design site, where you can upload you designs/logos and design your tshirt the way you want to. Tech used here are React/Nextjs, Framer-Motion, ThreeJs and Tailwind CSS.",
         image: "/images/projects/A_design.png",
@@ -21,7 +30,7 @@ const projectData = [
         previewUrl:"https://a-designs.vercel.app/",
     },
     {
-        id:3,
+        id:4,
         title: "A-Line",
         description: "It is a react SPA(single page application) which contains the details of the all time classic cars. Made using Reactjs and Tailwind CSS.",
         image: "/images/projects/Aline.png",
@@ -30,7 +39,7 @@ const projectData = [
         previewUrl:"https://a-line-six.vercel.app/",
     },
     {
-        id:4,
+        id:5,
         title: "AESOP",
         description: "It is a responsive homepage design clone of a brand website with product carousel and sliders to show the product images.",
         image: "/images/projects/AESOP.png",
@@ -39,7 +48,7 @@ const projectData = [
         previewUrl:"https://aesop-livid.vercel.app/",
     },
     {
-        id:5,
+        id:6,
         title: "PizBug",
         description: "It is a Restaurant SPA made using ReactJs. It is completely responsive with grid styling used to showcase the product cards.",
         image: "/images/projects/Pizbug.png",
@@ -48,7 +57,7 @@ const projectData = [
         previewUrl:"https://responsive-restaurant-site-three.vercel.app/",
     },
     {
-        id:6,
+        id:7,
         title: "CART",
         description: "It is a product cart made using ReactJs and traditional Javascript.",
         image: "/images/projects/Cart.png",
@@ -56,6 +65,7 @@ const projectData = [
         gitUrl:"https://github.com/adi5689/CART-Feature",
         previewUrl:"https://cart-feature-theta.vercel.app/",
     },
+    
 ]
 
 const ProjectsSection = () => {
