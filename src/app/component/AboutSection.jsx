@@ -103,13 +103,13 @@ const TAB_DATA = [
           <span className="text-[#ADB7BE]">{"=>"} FEB/23 - SEPT/23</span>
           <br />
           <span className="text-[#ADB7BE]">
-            {"=>"} Tech Stack: Figma, Canva, ReactJs, Javascript, Tailwind
+            {"=>"} Tech Stack: Figma, HTML, CSS, ReactJs, Javascript, Tailwind
           </span>
         </li>
         <li>
           <span>11x Infisol: Frontend Developer Intern</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"} DEC/22 - FEB/23</span>
+          <span className="text-[#ADB7BE]">{"=>"} OCT/22 - FEB/23</span>
           <br />
           <span className="text-[#ADB7BE]">
             {"=>"} Tech Stack: ReactJs, Javascript, Bootstrap
