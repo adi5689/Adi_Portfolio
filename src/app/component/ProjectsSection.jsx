@@ -9,7 +9,7 @@ const projectData = [
         image: "/images/projects/shoemonkey_1.png",
         tag: ["All", "Web"],
         gitUrl:"https://github.com/adi5689/shoeMonkey_frontend",
-        previewUrl:"https://shoe-monkey.vercel.app/",
+        previewUrl:"https://shoe-monkey-git-main-adi5689.vercel.app/",
     },
     {
         id:2,
