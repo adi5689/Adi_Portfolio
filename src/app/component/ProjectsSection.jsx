@@ -31,6 +31,15 @@ const projectData = [
     },
     {
         id:4,
+        title: "Online Video Downloader",
+        description: "It is a video downloading site mage with Rapid api and React.",
+        image: "https://i.postimg.cc/9fqGRCVM/video-downloader.png",
+        tag: ["All", "Web"],
+        gitUrl:"https://github.com/adi5689/Online-Video-Downloader",
+        previewUrl:"https://online-video-downloader-alpha.vercel.app/",
+    },
+    {
+        id:5,
         title: "A-Line",
         description: "It is a react SPA(single page application) which contains the details of the all time classic cars. Made using Reactjs and Tailwind CSS.",
         image: "/images/projects/Aline.png",
@@ -39,7 +48,7 @@ const projectData = [
         previewUrl:"https://a-line-six.vercel.app/",
     },
     {
-        id:5,
+        id:6,
         title: "AESOP",
         description: "It is a responsive homepage design clone of a brand website with product carousel and sliders to show the product images.",
         image: "/images/projects/AESOP.png",
@@ -48,7 +57,7 @@ const projectData = [
         previewUrl:"https://aesop-livid.vercel.app/",
     },
     {
-        id:6,
+        id:7,
         title: "PizBug",
         description: "It is a Restaurant SPA made using ReactJs. It is completely responsive with grid styling used to showcase the product cards.",
         image: "/images/projects/Pizbug.png",
@@ -57,7 +66,7 @@ const projectData = [
         previewUrl:"https://responsive-restaurant-site-three.vercel.app/",
     },
     {
-        id:7,
+        id:8,
         title: "CART",
         description: "It is a product cart made using ReactJs and traditional Javascript.",
         image: "/images/projects/Cart.png",
