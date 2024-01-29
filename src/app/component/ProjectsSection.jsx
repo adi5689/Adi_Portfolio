@@ -13,12 +13,12 @@ const projectData = [
     },
     {
         id:2,
-        title: "CRED UI CLONE",
-        description: "It is UI clone of the fintech startup CRED, made using React & Hooks.",
-        image: "/images/projects/cred_ui.png",
+        title: "BooKVersE",
+        description: "It is an online book catalogue where you can store your fav books, access them and also use its pdf.",
+        image: "https://i.postimg.cc/KjVtXjxH/bookverse.png",
         tag: ["All", "Web"],
-        gitUrl:"https://github.com/adi5689/Cred_UI_Clone",
-        previewUrl:"https://cred-ui-clone-three.vercel.app/",
+        gitUrl:"https://github.com/adi5689/bookverse_frontend",
+        previewUrl:"https://bookverse-frontend-mauve.vercel.app/",
     },
     {
         id:3,
