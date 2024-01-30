@@ -5,39 +5,39 @@ import TabButton from "./TabButton";
 
 const skillLogo = [
   {
-    img: "https://i.postimg.cc/d1RWQC4p/IMG-20240130-WA0016.jpg",
+    img: "/images/skills/html.png",
     title:"HTML5",
   },
   {
-    img: "https://i.postimg.cc/sX3YcN4H/IMG-20240130-WA0010.jpg",
+    img: "/images/skills/css.png",
     title:"CSS3",
   },
   {
-    img: "https://i.postimg.cc/qMKNNG8N/IMG-20240130-WA0021.jpg",
+    img: "/images/skills/Javascript.png",
     title:"Javascript",
   },
   {
-    img: "https://i.postimg.cc/76b6w1HY/IMG-20240130-WA0013.jpg",
+    img: "/images/skills/React.png",
     title:"ReactJs",
   },
   {
-    img: "https://i.postimg.cc/d0w40BxF/IMG-20240130-WA0020.jpg",
+    img: "/images/skills/redux.png",
     title: "Redux",
   },
   {
-    img: "https://i.postimg.cc/RZfDhqC7/IMG-20240130-WA0017.jpg",
+    img: "/images/skills/tailwind.png",
     title:"Tailwind CSS",
   },
   {
-    img: "https://i.postimg.cc/tJQ1XrBt/IMG-20240130-WA0011.jpg",
+    img: "/images/skills/git.png",
     title:"Git",
   },
   {
-    img: "https://i.postimg.cc/Hnsq7mvp/IMG-20240130-WA0014.jpg",
+    img: "/images/skills/figma.png",
     title:"Figma",
   },
   {
-    img: "https://i.postimg.cc/RVvFXJyF/IMG-20240130-WA0012.jpg",
+    img: "/images/skills/canva.png",
     title:"Canva",
   },
 ];
@@ -137,7 +137,7 @@ const AboutSection = () => {
             xl:gap-16 sm:py-12 xl:px-16"
       >
         <Image
-          src="https://i.postimg.cc/tJZzcmY3/IMG-20240130-WA0015.jpg"
+          src="/images/pic.jpg"
           alt="img"
           width={500}
           height={500}
