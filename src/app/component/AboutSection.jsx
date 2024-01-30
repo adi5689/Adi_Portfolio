@@ -5,43 +5,39 @@ import TabButton from "./TabButton";
 
 const skillLogo = [
   {
-    img: "https://i.ibb.co/zW3VR7n/html-1.png",
+    img: "https://i.postimg.cc/d1RWQC4p/IMG-20240130-WA0016.jpg",
     title:"HTML5",
   },
   {
-    img: "https://app.gemoo.com/share/image-annotation/610742576164446208?codeId=M0B3ymoJqmLmo&origin=imageurlgenerator&card=610742573626892288",
+    img: "https://i.postimg.cc/sX3YcN4H/IMG-20240130-WA0010.jpg",
     title:"CSS3",
   },
   {
-    img: "https://app.gemoo.com/share/image-annotation/610742167043645440?codeId=vzx2LX0mK9e7n&origin=imageurlgenerator&card=610742163503652864",
+    img: "https://i.postimg.cc/qMKNNG8N/IMG-20240130-WA0021.jpg",
     title:"Javascript",
   },
   {
-    img: "https://app.gemoo.com/share/image-annotation/610742833816330240?codeId=vzx2Lr2lW9ZJ2&origin=imageurlgenerator&card=610742831048089600",
+    img: "https://i.postimg.cc/76b6w1HY/IMG-20240130-WA0013.jpg",
     title:"ReactJs",
   },
   {
-    img: "https://app.gemoo.com/share/image-annotation/610743017191317504?codeId=v629KbkgYxjXQ&origin=imageurlgenerator&card=610743014687318016",
+    img: "https://i.postimg.cc/d0w40BxF/IMG-20240130-WA0020.jpg",
     title: "Redux",
   },
   {
-    img: "https://app.gemoo.com/share/image-annotation/610743256417632256?codeId=DWa4Zn142jW4g&origin=imageurlgenerator&card=610743253452259328",
+    img: "https://i.postimg.cc/RZfDhqC7/IMG-20240130-WA0017.jpg",
     title:"Tailwind CSS",
   },
   {
-    img: "https://app.gemoo.com/share/image-annotation/610743479537819648?codeId=Paj67L1mGYJLm&origin=imageurlgenerator&card=610743477075763200",
+    img: "https://i.postimg.cc/tJQ1XrBt/IMG-20240130-WA0011.jpg",
     title:"Git",
   },
   {
-    img: "https://app.gemoo.com/share/image-annotation/610744331707146240?codeId=v629K1WJAd7ll&origin=imageurlgenerator&card=610744329152823296",
-    title:"Strapi",
-  },
-  {
-    img: "https://app.gemoo.com/share/image-annotation/610744095093866496?codeId=M0B3yR9k5lb2g&origin=imageurlgenerator&card=610744092313042944",
+    img: "https://i.postimg.cc/Hnsq7mvp/IMG-20240130-WA0014.jpg",
     title:"Figma",
   },
   {
-    img: "https://app.gemoo.com/share/image-annotation/610744610880012288?codeId=vzx2LkK70kkzr&origin=imageurlgenerator&card=610744608216629248",
+    img: "https://i.postimg.cc/RVvFXJyF/IMG-20240130-WA0012.jpg",
     title:"Canva",
   },
 ];
@@ -141,7 +137,7 @@ const AboutSection = () => {
             xl:gap-16 sm:py-12 xl:px-16"
       >
         <Image
-          src="https://app.gemoo.com/share/image-annotation/610744959531552768?codeId=DWa4ZVG5pnlze&origin=imageurlgenerator&card=610744957082079232"
+          src="https://i.postimg.cc/tJZzcmY3/IMG-20240130-WA0015.jpg"
           alt="img"
           width={500}
           height={500}
