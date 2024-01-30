@@ -5,43 +5,43 @@ import TabButton from "./TabButton";
 
 const skillLogo = [
   {
-    img: "/images/skills/html.png",
+    img: "https://i.ibb.co/zW3VR7n/html-1.png",
     title:"HTML5",
   },
   {
-    img: "/images/skills/css.png",
+    img: "https://app.gemoo.com/share/image-annotation/610742576164446208?codeId=M0B3ymoJqmLmo&origin=imageurlgenerator&card=610742573626892288",
     title:"CSS3",
   },
   {
-    img: "/images/skills/Javascript.png",
+    img: "https://app.gemoo.com/share/image-annotation/610742167043645440?codeId=vzx2LX0mK9e7n&origin=imageurlgenerator&card=610742163503652864",
     title:"Javascript",
   },
   {
-    img: "/images/skills/React.png",
+    img: "https://app.gemoo.com/share/image-annotation/610742833816330240?codeId=vzx2Lr2lW9ZJ2&origin=imageurlgenerator&card=610742831048089600",
     title:"ReactJs",
   },
   {
-    img: "/images/skills/redux.png",
+    img: "https://app.gemoo.com/share/image-annotation/610743017191317504?codeId=v629KbkgYxjXQ&origin=imageurlgenerator&card=610743014687318016",
     title: "Redux",
   },
   {
-    img: "/images/skills/tailwind.png",
+    img: "https://app.gemoo.com/share/image-annotation/610743256417632256?codeId=DWa4Zn142jW4g&origin=imageurlgenerator&card=610743253452259328",
     title:"Tailwind CSS",
   },
   {
-    img: "/images/skills/git.png",
+    img: "https://app.gemoo.com/share/image-annotation/610743479537819648?codeId=Paj67L1mGYJLm&origin=imageurlgenerator&card=610743477075763200",
     title:"Git",
   },
   {
-    img: "/images/skills/strapi.png",
+    img: "https://app.gemoo.com/share/image-annotation/610744331707146240?codeId=v629K1WJAd7ll&origin=imageurlgenerator&card=610744329152823296",
     title:"Strapi",
   },
   {
-    img: "/images/skills/figma.png",
+    img: "https://app.gemoo.com/share/image-annotation/610744095093866496?codeId=M0B3yR9k5lb2g&origin=imageurlgenerator&card=610744092313042944",
     title:"Figma",
   },
   {
-    img: "/images/skills/canva.png",
+    img: "https://app.gemoo.com/share/image-annotation/610744610880012288?codeId=vzx2LkK70kkzr&origin=imageurlgenerator&card=610744608216629248",
     title:"Canva",
   },
 ];
@@ -141,7 +141,7 @@ const AboutSection = () => {
             xl:gap-16 sm:py-12 xl:px-16"
       >
         <Image
-          src="/images/pic.jpg"
+          src="https://app.gemoo.com/share/image-annotation/610744959531552768?codeId=DWa4ZVG5pnlze&origin=imageurlgenerator&card=610744957082079232"
           alt="img"
           width={500}
           height={500}
