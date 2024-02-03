@@ -55,7 +55,7 @@ const HeroSection = () => {
               </a>
             </button>
             <button className="px-1 py-1 rounded-md bg-gradient-to-br from-[#ff0c0c] to-[#c800ff] hover:bg-green-500 hover:text-white mt-3 lg:mt-0">
-              <a href="https://drive.google.com/file/d/1u0V3yFmdCoYExeHWpcUPyVHsRnuTXxuu/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/1n7rZMYsJw9FFs-uBB0HiXSzPf8CGQfC0/view?usp=sharing">
                 <span className="block bg-[#121212] text-white hover:bg-slate-900 rounded-md px-5 py-2">
                   Download Resume
                 </span>
