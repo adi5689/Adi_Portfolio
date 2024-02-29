@@ -20,23 +20,23 @@ const projectData = [
         gitUrl:"https://github.com/adi5689/bookverse_frontend",
         previewUrl:"https://bookverse-frontend-mauve.vercel.app/",
     },
-    {
+     {
         id:3,
-        title: "A-Design",
-        description: "It is a Tshirt design site, where you can upload you designs/logos and design your tshirt the way you want to. Tech used here are React/Nextjs, Framer-Motion, ThreeJs and Tailwind CSS.",
-        image: "/images/projects/A_design.png",
-        tag: ["All", "Web"],
-        gitUrl:"https://github.com/adi5689/A",
-        previewUrl:"https://a-designs.vercel.app/",
-    },
-    {
-        id:4,
         title: "Cryptoverse",
         description: "It is an online dashboard where you can monitor the daily performance of the top 100 crypto currencies in the world along with a news section that contains the top articles of the crypto world that too in real time thanks to the CoinRanking and CryptoNews Api's from Rapid API.",
         image: "https://i.postimg.cc/dQzY05zz/cryptoverse.png",
         tag: ["All", "Web"],
         gitUrl:"https://github.com/adi5689/Cryptoverse",
         previewUrl:"https://cryptoverse-virid-seven.vercel.app/",
+    },
+    {
+        id:4,
+        title: "BOOKSIE",
+        description: "_",
+        image: "https://i.postimg.cc/D0f3WBKG/Screenshot-2024-02-27-191120.png",
+        tag: ["All", "Web"],
+        gitUrl:"https://github.com/adi5689/BOOKSIE/tree/main",
+        previewUrl:"https://booksie.vercel.app/",
     },
     {
         id:5,
@@ -49,31 +49,13 @@ const projectData = [
     },
     {
         id:6,
-        title: "A-Line",
-        description: "It is a react SPA(single page application) which contains the details of the all time classic cars. Made using Reactjs and Tailwind CSS.",
-        image: "/images/projects/Aline.png",
+        title: "A-Design",
+        description: "It is a Tshirt design site, where you can upload you designs/logos and design your tshirt the way you want to. Tech used here are React/Nextjs, Framer-Motion, ThreeJs and Tailwind CSS.",
+        image: "/images/projects/A_design.png",
         tag: ["All", "Web"],
-        gitUrl:"https://github.com/adi5689/A-Line",
-        previewUrl:"https://a-line-six.vercel.app/",
-    },
-    {
-        id:7,
-        title: "AESOP",
-        description: "It is a responsive homepage design clone of a brand website with product carousel and sliders to show the product images.",
-        image: "/images/projects/AESOP.png",
-        tag: ["All", "Web"],
-        gitUrl:"https://github.com/adi5689/AESOP",
-        previewUrl:"https://aesop-livid.vercel.app/",
-    },
-    {
-        id:8,
-        title: "PizBug",
-        description: "It is a Restaurant SPA made using ReactJs. It is completely responsive with grid styling used to showcase the product cards.",
-        image: "/images/projects/Pizbug.png",
-        tag: ["All", "Web"],
-        gitUrl:"https://github.com/adi5689/Responsive-Restaurant-site",
-        previewUrl:"https://responsive-restaurant-site-three.vercel.app/",
-    },    
+        gitUrl:"https://github.com/adi5689/A",
+        previewUrl:"https://a-designs.vercel.app/",
+    }
 ]
 
 const ProjectsSection = () => {
