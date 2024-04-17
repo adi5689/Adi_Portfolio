@@ -4,12 +4,12 @@ import ProjectCard from './ProjectCard';
 const projectData = [
     {
         id:1,
-        title: "ShoeMonkey - E-Commerce Site",
-        description: "It is a ecommerce site for shoes with features like cart, product carousel payment gateway, made using React/NextJs, Tailwind, Strapi, Stripe, Redux.",
-        image: "/images/projects/shoemonkey_1.png",
+        title: "ShoeMonkey_2.0 - MERN E-Commerce Site",
+        description: "It is a ecommerce site for shoes with features like cart, product carousel, made using React, NodeJS, Tailwind, ExpressJS, Redux.",
+        image: "https://i.postimg.cc/T2HRBNL7/Screenshot-2024-04-18-032256.png",
         tag: ["All", "Web"],
-        gitUrl:"https://github.com/adi5689/shoeMonkey_frontend",
-        previewUrl:"https://shoe-monkey-git-main-adi5689.vercel.app/",
+        gitUrl:"https://github.com/adi5689/ShoeMonkey_Client_2.0",
+        previewUrl:"https://shoe-monkey-client-2-0.vercel.app/",
     },
     {
         id:2,
