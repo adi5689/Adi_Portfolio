@@ -96,7 +96,7 @@ const TAB_DATA = [
         <li>
           <span>BAKCHO₹: Frontend Developer (Trainee)</span>
           <br />
-          <span className="text-[#ADB7BE]">{"=>"} FEB/23 - SEPT/23</span>
+          <span className="text-[#ADB7BE]">{"=>"} FEB/23 - OCT/23</span>
           <br />
           <span className="text-[#ADB7BE]">
             {"=>"} Tech Stack: Figma, HTML, CSS, ReactJs, Javascript, Tailwind
