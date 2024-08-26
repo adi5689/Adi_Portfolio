@@ -4,6 +4,15 @@ import ProjectCard from './ProjectCard';
 const projectData = [
     {
         id:1,
+        title: "The Career Valley",
+        description: "It is a Client website for their Educational Consultancy platform",
+        image: "https://i.postimg.cc/MpcCnXd2/Screenshot-2024-08-23-000648.png",
+        tag: ["All", "Web"],
+        gitUrl:"#",
+        previewUrl:"https:thecareervalley.com",
+    },
+    {
+        id:2,
         title: "ShoeMonkey_2.0",
         description: "It is a ecommerce site for shoes with features like cart, product carousel, made using React, NodeJS, Tailwind, ExpressJS, Redux.",
         image: "https://i.postimg.cc/T2HRBNL7/Screenshot-2024-04-18-032256.png",
@@ -12,7 +21,7 @@ const projectData = [
         previewUrl:"https://shoe-monkey-client-2-0.vercel.app/",
     },
     {
-        id:2,
+        id:3,
         title: "BooKVersE",
         description: "It is an online book catalogue where you can store your fav books, access them and also use its pdf.",
         image: "https://i.postimg.cc/KjVtXjxH/bookverse.png",
@@ -21,7 +30,7 @@ const projectData = [
         previewUrl:"https://bookverse-frontend-mauve.vercel.app/",
     },
      {
-        id:3,
+        id:4,
         title: "Cryptoverse",
         description: "It is an online dashboard where you can monitor the daily performance of the top 100 crypto currencies in the world along with a news section that contains the top articles of the crypto world that too in real time thanks to the CoinRanking and CryptoNews Api's from Rapid API.",
         image: "https://i.postimg.cc/dQzY05zz/cryptoverse.png",
@@ -30,7 +39,7 @@ const projectData = [
         previewUrl:"https://cryptoverse-virid-seven.vercel.app/",
     },
     {
-        id:4,
+        id:5,
         title: "BOOKSIE",
         description: "_",
         image: "https://i.postimg.cc/D0f3WBKG/Screenshot-2024-02-27-191120.png",
@@ -39,7 +48,7 @@ const projectData = [
         previewUrl:"https://booksie.vercel.app/",
     },
     {
-        id:5,
+        id:6,
         title: "AdGenzy",
         description: "Online Portfolio website for an Agency.",
         image: "https://i.postimg.cc/P5X6k1Ht/Screenshot-2024-08-27-010558.png",
@@ -48,7 +57,7 @@ const projectData = [
         previewUrl:"https://ad-genzy.vercel.app/",
     },
     {
-        id:6,
+        id:7,
         title: "Gymme",
         description: "It is a SPA for a Gym chain.",
         image: "https://i.postimg.cc/xT4PBh6P/Screenshot-2024-08-27-010639.png",
@@ -57,7 +66,7 @@ const projectData = [
         previewUrl:"https://gymm-three.vercel.app/",
     },
     {
-        id:7,
+        id:8,
         title: "Online Video Downloader",
         description: "It is a video downloading site mage with Rapid api and React.",
         image: "https://i.postimg.cc/9fqGRCVM/video-downloader.png",
@@ -66,7 +75,7 @@ const projectData = [
         previewUrl:"https://online-video-downloader-alpha.vercel.app/",
     },
     {
-        id:8,
+        id:9,
         title: "A-Design",
         description: "It is a Tshirt design site, where you can upload you designs/logos and design your tshirt the way you want to. Tech used here are React/Nextjs, Framer-Motion, ThreeJs and Tailwind CSS.",
         image: "/images/projects/A_design.png",
