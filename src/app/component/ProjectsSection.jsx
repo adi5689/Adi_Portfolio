@@ -40,6 +40,24 @@ const projectData = [
     },
     {
         id:5,
+        title: "AdGenzy",
+        description: "Online Portfolio website for an Agency.",
+        image: "https://i.postimg.cc/P5X6k1Ht/Screenshot-2024-08-27-010558.png",
+        tag: ["All", "Web"],
+        gitUrl:"https://github.com/adi5689/AdGenzy",
+        previewUrl:"https://ad-genzy.vercel.app/",
+    },
+    {
+        id:6,
+        title: "Gymme",
+        description: "It is a SPA for a Gym chain.",
+        image: "https://i.postimg.cc/xT4PBh6P/Screenshot-2024-08-27-010639.png",
+        tag: ["All", "Web"],
+        gitUrl:"https://github.com/adi5689/Gymm",
+        previewUrl:"https://gymm-three.vercel.app/",
+    },
+    {
+        id:7,
         title: "Online Video Downloader",
         description: "It is a video downloading site mage with Rapid api and React.",
         image: "https://i.postimg.cc/9fqGRCVM/video-downloader.png",
@@ -48,7 +66,7 @@ const projectData = [
         previewUrl:"https://online-video-downloader-alpha.vercel.app/",
     },
     {
-        id:6,
+        id:8,
         title: "A-Design",
         description: "It is a Tshirt design site, where you can upload you designs/logos and design your tshirt the way you want to. Tech used here are React/Nextjs, Framer-Motion, ThreeJs and Tailwind CSS.",
         image: "/images/projects/A_design.png",
