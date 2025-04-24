@@ -137,7 +137,7 @@ const AboutSection = () => {
             xl:gap-16 sm:py-12 xl:px-16"
       >
         <Image
-          src="/images/pic.jpg"
+          src="https://res.cloudinary.com/dgtc2fvgu/image/upload/v1744797244/WhatsApp_Image_2025-04-16_at_11.57.56_AM_liyoub.jpg"
           alt="img"
           width={500}
           height={500}
